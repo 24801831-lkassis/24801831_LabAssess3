@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0ab3f7b8e93354c5ab280d4aaeaca63f
+guid: 15fbf814117b9489d96af4f8a836c75f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -107,7 +107,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BlueGhost_0
+      name: DeadPacStudent_0
       rect:
         serializedVersion: 2
         x: 16
@@ -121,18 +121,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0eeb32de530254e27a94d705713671de
-      internalID: -140658455
+      spriteID: 5fe52aba08d5c4f928e4f4cf6fa72722
+      internalID: -621771835
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueGhost_1
+      name: DeadPacStudent_1
       rect:
         serializedVersion: 2
         x: 16
-        y: 12
+        y: 16
         width: 96
         height: 100
       alignment: 0
@@ -142,8 +142,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2fc36da1c5c3f4c7a8cf284e59e6264c
-      internalID: -96627695
+      spriteID: b684840effa7f44919cb78cc07a47a41
+      internalID: -1806533187
       vertices: []
       indices: 
       edges: []
@@ -159,8 +159,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      BlueGhost_0: -140658455
-      BlueGhost_1: -96627695
+      DeadPacStudent_0: -621771835
+      DeadPacStudent_1: -1806533187
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

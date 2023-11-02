@@ -368,7 +368,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 264636653}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.05, y: -10.28, z: -2}
+  m_LocalPosition: {x: 4.05, y: -10.28, z: -5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2317,7 +2317,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300000, guid: d8645164224852b4a8686f6f8c2ceeaa, type: 3}
       - {fileID: 21300000, guid: da3dcb3aae1966b4d92e3677bbc64865, type: 3}
-      m_AnimationSpeed: 2.3943603
+      m_AnimationSpeed: 3.3022928
       m_AnimationTimeOffset: 1
       m_Flags: 0
   - first: {x: -9, y: -21, z: 0}
@@ -2326,7 +2326,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300000, guid: d8645164224852b4a8686f6f8c2ceeaa, type: 3}
       - {fileID: 21300000, guid: da3dcb3aae1966b4d92e3677bbc64865, type: 3}
-      m_AnimationSpeed: 3.2192688
+      m_AnimationSpeed: 2.7697067
       m_AnimationTimeOffset: 1
       m_Flags: 0
   - first: {x: -4, y: -10, z: 0}
@@ -3255,7 +3255,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300000, guid: d8645164224852b4a8686f6f8c2ceeaa, type: 3}
       - {fileID: 21300000, guid: da3dcb3aae1966b4d92e3677bbc64865, type: 3}
-      m_AnimationSpeed: 3.7744255
+      m_AnimationSpeed: 3.024044
       m_AnimationTimeOffset: 1
       m_Flags: 0
   - first: {x: -8, y: 1, z: 0}
@@ -3320,7 +3320,7 @@ Tilemap:
       m_AnimatedSprites:
       - {fileID: 21300000, guid: d8645164224852b4a8686f6f8c2ceeaa, type: 3}
       - {fileID: 21300000, guid: da3dcb3aae1966b4d92e3677bbc64865, type: 3}
-      m_AnimationSpeed: 3.0367022
+      m_AnimationSpeed: 3.6938455
       m_AnimationTimeOffset: 1
       m_Flags: 0
   - first: {x: -10, y: 2, z: 0}
@@ -3901,6 +3901,7 @@ GameObject:
   m_Component:
   - component: {fileID: 725185677}
   - component: {fileID: 725185676}
+  - component: {fileID: 725185678}
   m_Layer: 0
   m_Name: PacStudent_0
   m_TagString: Untagged
@@ -3975,6 +3976,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &725185678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 725185675}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3cb6c1281b4e3740a2f1eb6c26c10a9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 2
 --- !u!1 &804011749
 GameObject:
   m_ObjectHideFlags: 0
